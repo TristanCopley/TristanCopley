@@ -17,7 +17,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 </br>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TristanCopley)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tristan Copley)](https://github.com/anuraghazra/github-readme-stats)
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
