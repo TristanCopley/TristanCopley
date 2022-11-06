@@ -1,4 +1,4 @@
-### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Tristan Copley</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi there, I'm <b> Tristan Copley </b>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
