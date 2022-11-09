@@ -8,6 +8,24 @@ As a versatile developer I have many projects where I have proven my skills and 
 
 - <img src="https://imgs.search.brave.com/sG-78LSEqGAAqU01l0ge5uJybP8a8ypZxqopQFik87I/rs:fit:900:900:1/g:ce/aHR0cDovL3dla25v/d3lvdXJkcmVhbXMu/Y29tL2ltYWdlcy9z/Y3JhdGNoL3NjcmF0/Y2gtMDMuanBn" width="22" />&nbsp;&nbsp; I used to create [crazy projects](https://scratch.mit.edu/projects/334297345/) in Scratch;
 - <img src="https://imgs.search.brave.com/nFYQK_o7Y9OEJdQJdJx9XQToXnedbRDJMvXiuaPZzdw/rs:fit:768:768:1/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vcHJlbWl1/bXN0b3Jla2luZy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjEvMDYvbGVldGNv/ZGUuanBnP3Jlc2l6/ZT03NjglMkM3Njgm/c3NsPTE" width="22" />&nbsp;&nbsp; I love practicing [leetcode](https://leetcode.com/TristanCopley/);
+
+  <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <h2>Good</h2>
+        <pre><code class="language-c">int foo (void) 
+{
+    int i;
+}
+</code></pre>
+    </div>
+    <div style="display: inline-block;">
+        <h2>Bad</h2>
+        <pre><code class="language-c">int foo (void) {
+    int i;
+}
+</code></pre>
+    </div>
+</div>
   
 </br>
 
