@@ -6,8 +6,8 @@ As a versatile developer I have many projects where I have proven my skills and 
 
 **Things about me:**
 
-- <img src="https://imgs.search.brave.com/sG-78LSEqGAAqU01l0ge5uJybP8a8ypZxqopQFik87I/rs:fit:900:900:1/g:ce/aHR0cDovL3dla25v/d3lvdXJkcmVhbXMu/Y29tL2ltYWdlcy9z/Y3JhdGNoL3NjcmF0/Y2gtMDMuanBn" width="22" />&nbsp;&nbsp; I used to create [crazy projects in Scratch](https://scratch.mit.edu/projects/334297345/);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I love practicing [leetcode](https://leetcode.com/TristanCopley/);
+#### - <img src="https://imgs.search.brave.com/sG-78LSEqGAAqU01l0ge5uJybP8a8ypZxqopQFik87I/rs:fit:900:900:1/g:ce/aHR0cDovL3dla25v/d3lvdXJkcmVhbXMu/Y29tL2ltYWdlcy9z/Y3JhdGNoL3NjcmF0/Y2gtMDMuanBn" width="22" />&nbsp;&nbsp; I used to create [crazy projects in Scratch](https://scratch.mit.edu/projects/334297345/);
+#### - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I love practicing [leetcode](https://leetcode.com/TristanCopley/);
 
 </br>
 
