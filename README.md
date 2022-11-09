@@ -7,7 +7,7 @@ As a versatile developer I have many projects where I have proven my skills and 
 **Things about me:**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I used to create [crazy projects in Scratch](https://scratch.mit.edu/projects/334297345/);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I love practicing [leetcode](https://leetcode.com/TristanCopley/). I grind LeetCode every day to stay sharp;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I love practicing [leetcode](https://leetcode.com/TristanCopley/);
 
 </br>
 
