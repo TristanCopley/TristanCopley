@@ -11,10 +11,6 @@ As a versatile developer I have many projects where I have proven my skills and 
 
 <table align="center">
 <tr>
-<th> Good </th>
-<th> Bad </th>
-</tr>
-<tr>
 <td>
 
 ```c++
