@@ -6,8 +6,8 @@ As a versatile developer I have many projects where I have proven my skills and 
 <br><br>
 <table align="center">
   <tr>
-    <td>About Me:</td>
-    <td>Projects:</td>
+    <td align="center">About Me:</td>
+    <td align="center">Projects:</td>
   </tr>
 <tr>
 <td width="50%" align="center">
