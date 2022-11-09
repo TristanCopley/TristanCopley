@@ -1,8 +1,8 @@
 ### <samp>&gt; Hi there, I'm <b> Tristan Copley </b>
 
-I am a full-stack software engineer and game developer. I love coding, working out, speaking and gaming.
+I am a full-stack web developer, software engineer and game developer. I love coding, working out, speaking and gaming.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a versatile developer I have many projects where I have proven my skills and created inspiring, powerful and engaging products. I have many [web apps running](https://github.com/TristanCopley/), [web games](https://github.com/TristanCopley/), and have an extremely strong grasp of [data structures and algorithms](https://leetcode.com/TristanCopley/). 
 
 **Things about me:**
 
