@@ -11,7 +11,7 @@ As a versatile developer I have many projects where I have proven my skills and 
 
 <table align="center">
 <tr>
-<td width="50%" text-align="center">
+<td width="50%" align="center">
 
   I used to create [crazy projects](https://scratch.mit.edu/projects/334297345/) in Scratch
   <br>
