@@ -27,6 +27,15 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   
 </br>
 
+<table>
+  <tr>
+    <td> <p> 📈 **My GitHub Stats:** 📈 </p> </td>
+  </tr>
+  <tr>
+    <td></td>
+  </tr>
+</table>
+
 <p align="center">📈 **My GitHub Stats:** 📈</p>
 
 <p>
