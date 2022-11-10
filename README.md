@@ -14,8 +14,8 @@ As a versatile developer I have many projects where I have proven my skills and 
 
   I used to create [crazy projects](https://scratch.mit.edu/projects/334297345/) in Scratch
   <br>
-  I love practicing [leetcode](https://leetcode.com/TristanCopley/);
   <br>
+  I love practicing [leetcode](https://leetcode.com/TristanCopley/);
 </td>
 <td>
 
