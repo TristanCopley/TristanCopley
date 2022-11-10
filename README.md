@@ -27,21 +27,20 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   
 </br>
 
-<table>
+<table align="center">
   <tr>
-    <td> <p> 📈 **My GitHub Stats:** 📈 </p> </td>
+    <td align="center">My GitHub Stats:</td>
   </tr>
   <tr>
-    <td></td>
-  </tr>
-</table>
-
-<p align="center">📈 **My GitHub Stats:** 📈</p>
-
-<p>
+    <td align="center">
+      <br>
+      <p width="100%">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TristanCopley&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TristanCopley&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=8&theme=github_dark"/>
 </p>
+    </td>
+  </tr>
+</table>
 
 
 
