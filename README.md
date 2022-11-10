@@ -27,7 +27,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   
 </br>
 
-📈 **My GitHub Stats:** 📈
+<p align="center">📈 **My GitHub Stats:** 📈</p>
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TristanCopley&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
