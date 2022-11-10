@@ -6,16 +6,16 @@ As a versatile developer I have many projects where I have proven my skills and 
 <br><br>
 <table align="center">
   <tr>
-    <td align="center">About Me:</td>
+    <td align="center">Fun trivia:</td>
     <td align="center">Projects:</td>
   </tr>
 <tr>
 <td width="50%" align="center">
-
-  I used to create [crazy projects](https://scratch.mit.edu/projects/334297345/) in Scratch
+  
+  I previously created many [crazy projects](https://scratch.mit.edu/projects/334297345/) in Scratch for fun
   <br>
   <br>
-  I love practicing [leetcode](https://leetcode.com/TristanCopley/);
+  I practice [LeetCode](https://leetcode.com/TristanCopley/) daily. Gotta stay sharp!
 </td>
 <td>
 
