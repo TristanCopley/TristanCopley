@@ -42,5 +42,5 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
   </tr>
 </table>
 
-- name: Profile Readme Development Stats
-  uses: anmol098/waka-readme-stats@V3
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
