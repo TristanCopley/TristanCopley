@@ -1,7 +1,10 @@
 ### <samp>&gt; Hi there, I'm <b> Tristan Copley </b>
 
 I am a full-stack web developer, software engineer and game developer. I love coding, working out, speaking and gaming.
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Developer;Student;Fullstack+Engineer;Programmer)](https://git.io/typing-svg)-->
 
+</div>
+  
 As a versatile developer I have many projects where I have proven my skills and created inspiring, powerful and engaging products. I have many [web apps](https://github.com/TristanCopley/) running, [web games](https://github.com/TristanCopley/), and have an extremely strong grasp of [data structures and algorithms](https://leetcode.com/TristanCopley/). In my free time I enjoy learning different programming languages. I would say I am an expert on JavaScript, HTML and CSS alongside in-depth and extensive knowledge on Java, Python, C and Cobol.
 <br><br>
 <table align="center">
@@ -44,3 +47,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<div align="center">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TristanCopley&hide_border=true&background=FFFFFF00&currStreakNum=FF924F&sideNums=B3B3B3&sideLabels=8F8F8F)](https://git.io/streak-stats)
+  
+</div>
