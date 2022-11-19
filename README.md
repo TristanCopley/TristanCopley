@@ -1,10 +1,16 @@
-### <samp>&gt; Hi there, I'm <b> Tristan Copley </b>
+<div align="center">
+
+  ### <samp>&gt; Hi there, I'm <b> Tristan Copley </b> &lt; </samp>
 ![](https://komarev.com/ghpvc/?username=TristanCopley&style=flat-square)
 
-I am a full-stack web developer, software engineer and game developer. I love coding, working out and gaming.
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Developer;Student;Fullstack+Engineer;Programmer)](https://git.io/typing-svg)-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=2000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-stack+Developer;Videogame+Programmer)](https://git.io/typing-svg)
+    
 
+I am a full-stack web developer, software engineer and game developer. I love coding, working out and gaming.
+
+  
 As a versatile developer I have many projects where I have proven my skills and created inspiring, powerful and engaging products. I have many [web apps](https://github.com/TristanCopley/) running, [web games](https://github.com/TristanCopley/), and have an strong grasp of [data structures and algorithms](https://leetcode.com/TristanCopley/). In my free time I enjoy learning different programming languages.
+  </div>
 <br><br>
 <table align="center">
   <tr>
