@@ -1,10 +1,9 @@
 <div align="center">
 
   ### <samp>&gt; Hi there, I'm <b> Tristan Copley </b> &lt; </samp>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/warengonzagaofficial) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/warengonzaga) 
-[![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/warengonzaga) 
-[![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://bmc.xyz/warengonzaga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/warengonzagaofficial](https://www.linkedin.com/in/tristan-copley-0123b9256/)) 
+[![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/tristancopley) 
+[![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)]([https://bmc.xyz/warengonzaga](https://www.buymeacoffee.com/tristancopley))
 [![Profile Views](https://komarev.com/ghpvc/?username=TristanCopley&style=flat-square)](https://github.com/TristanCopley)
 
 
