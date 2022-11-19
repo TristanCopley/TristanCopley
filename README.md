@@ -41,7 +41,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <img alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img alt="TypeScript" width="32px" src="https://user-images.githubusercontent.com/44332326/127034527-735e1477-2277-448b-b334-1fff2c35d694.png" />
 <img alt="Java"       width="34px" src="https://user-images.githubusercontent.com/44332326/127751758-e0718df9-046f-4adc-b77f-87907a99d8f8.png" />
-<img alt="C"          width="32px" src="https://user-images.githubusercontent.com/44332326/126879929-4ff551b8-1025-445b-b25d-e81f2aa8c8cd.png" />
+<img alt="C"          width="33px" src="https://user-images.githubusercontent.com/44332326/126879929-4ff551b8-1025-445b-b25d-e81f2aa8c8cd.png" />
 <img alt="C++"        width="28px" src="https://user-images.githubusercontent.com/44332326/126880643-e4ac2a1d-f026-40ad-a56c-69196c676284.png" />
 <img alt="Python"     width="30px" src="https://user-images.githubusercontent.com/44332326/127032054-578b242c-0208-4820-b865-07ed5f57b108.png" />
 <img alt="HTML5"      width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
