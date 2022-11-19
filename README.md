@@ -67,5 +67,3 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <img alt="Git"        width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
 </div>
 <br>
-
- 
