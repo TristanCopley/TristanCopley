@@ -46,15 +46,17 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <img alt="Python"     width="30px" src="https://user-images.githubusercontent.com/44332326/127032054-578b242c-0208-4820-b865-07ed5f57b108.png" />
 <img alt="HTML5"      width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS3"       width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img alt="Sass"       width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img alt="Bash"       width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
+
+<img alt="Electron"   width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" />
+<img alt="Firebase"   width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
+<img alt="THREE.JS"   width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" />
+<img alt="TailwindCSS"width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
 <img alt="React"      width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img alt="Node.js"    width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img alt="PostgreSQL" width="32px" src="https://user-images.githubusercontent.com/44332326/162406858-6579cede-5d13-4bcc-9a89-6263f29c5084.png"/>
 <img alt="Terminal"   width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img alt="VS Code"    width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="Atom"       width="32px" src="https://user-images.githubusercontent.com/44332326/127031867-97712f98-847e-4e9d-9e19-917d81e441f4.png" />
 <img alt="Docker"     width="32px" src="https://user-images.githubusercontent.com/44332326/127984598-11ad8e81-a31e-4a58-a175-051c5df8a7a7.png" />
-<img alt="GCP"        width="32px" src="https://user-images.githubusercontent.com/44332326/127984766-ccf40810-40be-4485-948a-bbf7894e623b.png" />
 <img alt="AWS"        width="40px" src="https://user-images.githubusercontent.com/44332326/129472177-4d60dd72-bf30-4e9f-bd67-ab99906c7c16.png" />  
 <img alt="MongoDB"    width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img alt="Git"        width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
