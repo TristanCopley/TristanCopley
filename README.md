@@ -7,7 +7,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=TristanCopley&style=flat-square)](https://github.com/TristanCopley)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=2000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-stack+Developer;Videogame+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Martel+Sans&duration=3000&pause=2000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-stack+Developer;Videogame+Programmer)](https://git.io/typing-svg)
 
 I am a full-stack web developer, software engineer and game developer. I love coding, working out and gaming.
 
