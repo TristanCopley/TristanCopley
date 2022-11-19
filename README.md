@@ -1,10 +1,14 @@
 <div align="center">
 
   ### <samp>&gt; Hi there, I'm <b> Tristan Copley </b> &lt; </samp>
-![](https://komarev.com/ghpvc/?username=TristanCopley&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/warengonzagaofficial) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/warengonzaga) 
+[![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/warengonzaga) 
+[![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://bmc.xyz/warengonzaga)
+[![Profile Views](https://komarev.com/ghpvc/?username=TristanCopley&style=flat-square)](https://github.com/TristanCopley)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=2000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-stack+Developer;Videogame+Programmer)](https://git.io/typing-svg)
-    
 
 I am a full-stack web developer, software engineer and game developer. I love coding, working out and gaming.
 
