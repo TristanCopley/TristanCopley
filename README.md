@@ -1,13 +1,14 @@
 <div align="center">
 
   # <samp>&gt; Hi there, I'm <b> Tristan Copley </b> &lt; </samp>
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/warengonzagaofficial](https://www.linkedin.com/in/tristan-copley-0123b9256/)) 
 [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/tristancopley) 
 [![BMC](https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)]([https://bmc.xyz/warengonzaga](https://www.buymeacoffee.com/tristancopley))
 [![Profile Views](https://komarev.com/ghpvc/?username=TristanCopley&style=flat-square)](https://github.com/TristanCopley)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Martel+Sans&duration=3000&pause=2000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-stack+Developer;Videogame+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&duration=3000&pause=2000&color=DFDFDF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-stack+Developer;Videogame+Programmer)](https://git.io/typing-svg)
 
 I am a full-stack web developer, software engineer and game developer. I love coding, working out and gaming.
 
