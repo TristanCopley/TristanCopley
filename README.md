@@ -1,4 +1,5 @@
 ### <samp>&gt; Hi there, I'm <b> Tristan Copley </b>
+![](https://komarev.com/ghpvc/?username=TristanCopley&style=flat-square)
 
 I am a full-stack web developer, software engineer and game developer. I love coding, working out and gaming.
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer;Developer;Student;Fullstack+Engineer;Programmer)](https://git.io/typing-svg)-->
