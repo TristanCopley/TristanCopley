@@ -7,13 +7,11 @@
 [![BMC](https://img.shields.io/badge/BuyMeACoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tristancopley)
 [![Profile Views](https://komarev.com/ghpvc/?username=TristanCopley&style=flat-square)](https://github.com/TristanCopley)
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&duration=3000&pause=2000&color=DFDFDF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-stack+Developer;Videogame+Programmer)](https://git.io/typing-svg)
 
 I am a full-stack web developer, software engineer and game developer. I love coding, working out and gaming.
 
-  
-As a versatile developer I have many projects where I have proven my skills and created inspiring, powerful and engaging products. I have many [web apps](https://github.com/TristanCopley/) running, [web games](https://github.com/TristanCopley/), and have an strong grasp of [data structures and algorithms](https://leetcode.com/TristanCopley/). In my free time I enjoy learning different programming languages.
+As a versatile developer I have many projects where I have proven my skills and created inspiring, powerful and engaging products. I have many [web apps](https://github.com/TristanCopley/) running, [web games](https://github.com/TristanCopley/), and have an strong grasp of [data structures and algorithms](https://leetcode.com/TristanCopley/). In my free time I enjoy learning different programming languages. 
   </div>
 
 <div align="center">
