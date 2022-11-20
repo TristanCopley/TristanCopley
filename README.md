@@ -2,7 +2,7 @@
 
   # <samp>&gt; Hi there, I'm <b> Tristan Copley </b> &lt; </samp>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/warengonzagaofficial](https://www.linkedin.com/in/tristan-copley-0123b9256/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-copley-0123b9256/)
 [![DEV](https://img.shields.io/badge/Dev.to-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/tristancopley) 
 [![BMC](https://img.shields.io/badge/BuyMeACoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tristancopley)
 [![Profile Views](https://komarev.com/ghpvc/?username=TristanCopley&style=flat-square)](https://github.com/TristanCopley)
