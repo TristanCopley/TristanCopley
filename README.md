@@ -11,7 +11,7 @@
 
 I am a full-stack web developer, software engineer and game developer. I love coding, working out and gaming.
 
-As a versatile developer I have many projects where I have proven my skills and created inspiring, powerful and engaging products. I have many [web apps](https://github.com/TristanCopley/) running, [web games](https://github.com/TristanCopley/), and have an strong grasp of [data structures and algorithms](https://leetcode.com/TristanCopley/). In my free time I enjoy learning different programming languages. 
+As a versatile developer I have many projects where I have proven my skills and created inspiring, powerful and engaging products. I have many web apps running, web games, and have an strong grasp of data structures and algorithms. In my free time I enjoy learning different programming languages. 
   </div>
 
 <div align="center">
