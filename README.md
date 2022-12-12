@@ -40,7 +40,7 @@ As a versatile developer I have many projects where I have proven my skills and 
   
   [Photoboard]()
   
-  Photoboard helps teachers streamline a photography course through online classes and unique, photography specific assignment options.
+  Photoboard helps teachers streamline their photography courses through online classes and unique, photography specific assignment options.
   
   ![Custom Database](https://img.shields.io/badge/-Custom%20Database-blueviolet) ![Crypto](https://img.shields.io/badge/-Crypto-green) ![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen) ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-yellow)
  
