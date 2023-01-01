@@ -89,5 +89,6 @@ As a versatile developer I have many projects where I have proven my skills and 
 <img alt="AWS"        width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" />  
 <img alt="MongoDB"    width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img alt="Git"        width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
+<img alt="Vite"       width="32px" src="https://avatars.githubusercontent.com/u/65625612?s=280&v=4" />
 </div>
 <br>
