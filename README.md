@@ -51,12 +51,6 @@ As a versatile developer I have many projects where I have proven my skills and 
 </table>
   
 </br>
-
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TristanCopley&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=github_dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TristanCopley&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=8&theme=github_dark"/>
-</div>
-
 <div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TristanCopley&hide_border=true&background=FFFFFF00&currStreakNum=FF924F&sideNums=B3B3B3&sideLabels=8F8F8F)](https://git.io/streak-stats)
