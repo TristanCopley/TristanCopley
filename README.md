@@ -19,11 +19,11 @@ I am a 18 year old with a drive to generate unique and intelligent solutions to 
   
   <br>
   
-  [Supamaxel](http://13.56.13.208/)
+  [CanCode](https://cancode-demo.vercel.app/)
   
-  Supamaxel is a massive real-time art canvas that anyone can draw on from around the world.
+  CanCode enables users to accelerate their learning with interactive lessons, educative coding challenges, and a community of like-minded learners.
   
-  ![WebSockets](https://img.shields.io/badge/-WebSockets-red) ![WebWorkers](https://img.shields.io/badge/-WebWorkers-blue) ![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen) ![Firebase](https://img.shields.io/badge/-Firebase-orange) ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-yellow)
+  ![SvelteKit](https://img.shields.io/badge/-SvelteKit-blueviolet) ![Firebase](https://img.shields.io/badge/-Firebase-orange) ![TypeScript](https://img.shields.io/badge/-TypeScript-brightgreen) ![Playwright](https://img.shields.io/badge/-Playwright-yellow)
  
    <br>
   
@@ -32,11 +32,11 @@ I am a 18 year old with a drive to generate unique and intelligent solutions to 
   
   <br>
   
-  [Photoboard]()
+  [Supamaxel](http://13.56.13.208/)
   
-  Photoboard helps teachers streamline their photography courses through online classes and unique, photography specific assignment options.
+  Supamaxel is a massive real-time art canvas that anyone can draw on from around the world.
   
-  ![Custom Database](https://img.shields.io/badge/-Custom%20Database-blueviolet) ![Crypto](https://img.shields.io/badge/-Crypto-green) ![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen) ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-yellow)
+  ![WebSockets](https://img.shields.io/badge/-WebSockets-red) ![WebWorkers](https://img.shields.io/badge/-WebWorkers-blue) ![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen) ![Firebase](https://img.shields.io/badge/-Firebase-orange) ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-yellow)
  
    <br>
   
