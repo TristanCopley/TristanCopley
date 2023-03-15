@@ -12,6 +12,7 @@
 <div>
 I am a 18 year old with a drive to generate unique and intelligent solutions to complex problems. With extensive knowledge in languages like Java, Rust, JavaScript and Python, and work experience in test-driven, agile and waterfall environments, I can deliver quality results within tight deadlines.
 </div>
+<br>
   </div>
 <table align="center">
 <tr>
