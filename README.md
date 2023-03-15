@@ -8,8 +8,9 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=TristanCopley&style=flat-square)](https://github.com/TristanCopley)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&duration=3000&pause=2000&color=DFDFDF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-stack+Developer;Videogame+Programmer)](https://git.io/typing-svg)
-
-    I am a 18 year old with a drive to generate unique and intelligent solutions to complex problems. With extensive knowledge in languages like Java, Rust, JavaScript and Python, and work experience in test-driven, agile and waterfall environments, I can deliver quality results within tight deadlines.
+  
+  
+I am a 18 year old with a drive to generate unique and intelligent solutions to complex problems. With extensive knowledge in languages like Java, Rust, JavaScript and Python, and work experience in test-driven, agile and waterfall environments, I can deliver quality results within tight deadlines.
 
   </div>
 <table align="center">
@@ -55,12 +56,12 @@
 
 <hr>
 
-<a href='https://www.javascript.com/'><img alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+<a href='https://www.javascript.com/'><img     alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
 <a href='https://www.typescriptlang.org/'><img alt="TypeScript" width="32px" src="https://user-images.githubusercontent.com/44332326/127034527-735e1477-2277-448b-b334-1fff2c35d694.png" /></a>
-<a href='https://www.oracle.com/java/'><img alt="Java"       width="34px" src="https://user-images.githubusercontent.com/44332326/127751758-e0718df9-046f-4adc-b77f-87907a99d8f8.png" /></a>
+<a href='https://www.oracle.com/java/'><img    alt="Java"       width="34px" src="https://user-images.githubusercontent.com/44332326/127751758-e0718df9-046f-4adc-b77f-87907a99d8f8.png" /></a>
 <a href='https://devdocs.io/c/'><img alt="C"          width="33px" src="https://user-images.githubusercontent.com/44332326/126879929-4ff551b8-1025-445b-b25d-e81f2aa8c8cd.png" /></a>
-<a href='https://en.cppreference.com/w/'><img alt="C++"        width="28px" src="https://user-images.githubusercontent.com/44332326/126880643-e4ac2a1d-f026-40ad-a56c-69196c676284.png" /></a>
-<a href='https://www.python.org/'><img alt="Python"     width="30px" src="https://user-images.githubusercontent.com/44332326/127032054-578b242c-0208-4820-b865-07ed5f57b108.png" /></a>
+<a href='https://en.cppreference.com/w/'><img  alt="C++"        width="28px" src="https://user-images.githubusercontent.com/44332326/126880643-e4ac2a1d-f026-40ad-a56c-69196c676284.png" /></a>
+<a href='https://www.python.org/'><img         alt="Python"     width="30px" src="https://user-images.githubusercontent.com/44332326/127032054-578b242c-0208-4820-b865-07ed5f57b108.png" /></a>
 <a href='https://en.wikipedia.org/wiki/HTML5'><img alt="HTML5"      width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href='https://www.tutorialrepublic.com/css-tutorial/'><img alt="CSS3"       width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href='https://www.gnu.org/software/bash/'><img alt="Bash"       width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" /></a>
