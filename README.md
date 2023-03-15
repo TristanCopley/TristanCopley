@@ -9,19 +9,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&duration=3000&pause=2000&color=DFDFDF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-stack+Developer;Videogame+Programmer)](https://git.io/typing-svg)
 
-Full-stack web developer, software engineer and game developer.
-  
-<div align="center" width="100%">
-  <div align="left" width="50%">
-As a 17-year-old high school student, I am a driven and creative individual with a passion for software engineering. With extensive knowledge in multiple languages including JavaScript, Java, C, C++, Python, TypeScript, and Rust, I am continually honing my skills through LeetCode and other learning resources.
+    I am a 18 year old with a drive to generate unique and intelligent solutions to complex problems. With extensive knowledge in languages like Java, Rust, JavaScript and Python, and work experience in test-driven, agile and waterfall environments, I can deliver quality results within tight deadlines.
 
-I have an impressive portfolio of personal projects, including a solar system simulation utilizing NASA data to recreate our solar system in a digital environment, a website for teachers to assign work to students and facilitate communication, and a programming learning accelerator for new programmers.
-
-Throughout my career, I have led numerous teams in the development of various projects, websites, and apps. One notable accomplishment was leading a team of 12 people over the course of 3 months to develop an app, utilizing AWS, JIRA, GitHub Organizations, and other cutting-edge tools.
-
-My strong foundation in data structures and algorithms, combined with my hands-on experience and passion for software engineering, make me a standout candidate for any software development team. I am excited about the opportunity to contribute my skills and experience to create innovative solutions and drive success in any project I am involved in.
-  </div>
-  </div>
   </div>
 <table align="center">
 <tr>
