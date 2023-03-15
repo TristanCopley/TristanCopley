@@ -9,16 +9,20 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&duration=3000&pause=2000&color=DFDFDF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-stack+Developer;Videogame+Programmer)](https://git.io/typing-svg)
 
-I am a full-stack web developer, software engineer and game developer. I love coding, working out and gaming.
+Full-stack web developer, software engineer and game developer.
+  
+<div align="center" width="100%">
+  <div align="left" width="50%">
+As a 17-year-old high school student, I am a driven and creative individual with a passion for software engineering. With extensive knowledge in multiple languages including JavaScript, Java, C, C++, Python, TypeScript, and Rust, I am continually honing my skills through LeetCode and other learning resources.
 
-As a versatile developer I have many projects where I have proven my skills and created inspiring, powerful and engaging products. I have many web apps running, web games, and have an strong grasp of data structures and algorithms. In my free time I enjoy learning different programming languages. 
+I have an impressive portfolio of personal projects, including a solar system simulation utilizing NASA data to recreate our solar system in a digital environment, a website for teachers to assign work to students and facilitate communication, and a programming learning accelerator for new programmers.
+
+Throughout my career, I have led numerous teams in the development of various projects, websites, and apps. One notable accomplishment was leading a team of 12 people over the course of 3 months to develop an app, utilizing AWS, JIRA, GitHub Organizations, and other cutting-edge tools.
+
+My strong foundation in data structures and algorithms, combined with my hands-on experience and passion for software engineering, make me a standout candidate for any software development team. I am excited about the opportunity to contribute my skills and experience to create innovative solutions and drive success in any project I am involved in.
   </div>
-
-<div align="center">
-  
-### Projects:
-  
-</div>
+  </div>
+  </div>
 <table align="center">
 <tr>
 <td>
