@@ -8,7 +8,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=TristanCopley&style=flat-square)](https://github.com/TristanCopley)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&duration=3000&pause=2000&color=DFDFDF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-stack+Developer;Videogame+Programmer)](https://git.io/typing-svg)
-  
+</div>
 <div>
 I am a 18 year old with a drive to generate unique and intelligent solutions to complex problems. With extensive knowledge in languages like Java, Rust, JavaScript and Python, and work experience in test-driven, agile and waterfall environments, I deliver quality results within tight deadlines.
 </div>
@@ -77,5 +77,4 @@ I am a 18 year old with a drive to generate unique and intelligent solutions to 
 <a href='https://www.mongodb.com/'><img            alt="MongoDB"    width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" /></a>
 <a href='https://github.com/'><img                 alt="Git"        width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" /></a>
 <a href="https://vitejs.dev/"><img                 alt="Vite"       width="32px" src="https://avatars.githubusercontent.com/u/65625612?s=280&v=4"/></a>
-</div>
 <br>
