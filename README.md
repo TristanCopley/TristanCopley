@@ -65,7 +65,7 @@ I am an 18 year old with a drive to generate unique and intelligent solutions to
   
    My personal website doubles as an aesthetic software engineering resume and an ergonomic repository for all the projects I have felt the desire to share.
   
-  ![Too many!](https://img.shields.io/badge/-Too%20Many%20To%20Count!-darkred)
+  ![Too many!](https://img.shields.io/badge/-Too%20many%20to%20count!-darkred)
  
    <br>
   
