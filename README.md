@@ -50,9 +50,9 @@ I am an 18 year old with a drive to generate unique and intelligent solutions to
   
   [Flow Field Renderer](https://flowfields.vercel.app/)
   
-  CanCode enables users to accelerate their learning with interactive lessons, educative coding challenges, and a community of like-minded learners.
+  A real-time flow field simulator and non-rts renderer made with WebGL
   
-  ![SvelteKit](https://img.shields.io/badge/-SvelteKit-blueviolet) ![WebGL](https://img.shields.io/badge/-WebGL-gray) ![TypeScript](https://img.shields.io/badge/-TypeScript-brightgreen) ![Vercel](https://img.shields.io/badge/-Vercel-purple)
+  ![SvelteKit](https://img.shields.io/badge/-SvelteKit-blueviolet) ![ThreeJS](https://img.shields.io/badge/-ThreeJS-white) ![TypeScript](https://img.shields.io/badge/-TypeScript-brightgreen) ![Vercel](https://img.shields.io/badge/-Vercel-purple)
  
    <br>
   
@@ -63,9 +63,9 @@ I am an 18 year old with a drive to generate unique and intelligent solutions to
   
   [Personal Website](https://tristan-copley-2023.vercel.app/)
   
-  Supamaxel is a massive real-time art canvas that anyone can draw on from around the world.
+   My personal website doubles as an aesthetic software engineering resume and an ergonomic repository for all the projects I have felt the desire to share.
   
-  ![WebSockets](https://img.shields.io/badge/-WebSockets-red) ![WebWorkers](https://img.shields.io/badge/-WebWorkers-blue) ![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen) ![Firebase](https://img.shields.io/badge/-Firebase-orange) ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-yellow)
+  ![Too many!](https://img.shields.io/badge/-Too%20Many%20To%20Count!-darkred)
  
    <br>
   
@@ -105,4 +105,5 @@ I am an 18 year old with a drive to generate unique and intelligent solutions to
 <a href='https://www.mongodb.com/'><img            alt="MongoDB"    width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" /></a>
 <a href='https://github.com/'><img                 alt="Git"        width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" /></a>
 <a href="https://vitejs.dev/"><img                 alt="Vite"       width="32px" src="https://avatars.githubusercontent.com/u/65625612?s=280&v=4"/></a>
+<a href="https://tristan-copley-2023.vercel.app/" align="center">And more...</a>
 <br>
