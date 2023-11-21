@@ -50,7 +50,7 @@ I am an 18 year old with a drive to generate unique and intelligent solutions to
   
   [Flow Field Renderer](https://flowfields.vercel.app/)
   
-  A real-time flow field simulator and non-rts renderer made with WebGL
+  A real-time flow field simulator and non-rts renderer made with WebGL.
   
   ![SvelteKit](https://img.shields.io/badge/-SvelteKit-blueviolet) ![ThreeJS](https://img.shields.io/badge/-ThreeJS-white) ![TypeScript](https://img.shields.io/badge/-TypeScript-brightgreen) ![Vercel](https://img.shields.io/badge/-Vercel-purple)
  
