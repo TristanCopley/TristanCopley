@@ -20,7 +20,7 @@ I am an 18 year old with a drive to generate unique and intelligent solutions to
   
   <br>
   
-  [CanCode](https://cancode-demo.vercel.app/)
+  [CanCode](https://cancode-pi.vercel.app/)
   
   CanCode enables users to accelerate their learning with interactive lessons, educative coding challenges, and a community of like-minded learners.
   
@@ -34,6 +34,34 @@ I am an 18 year old with a drive to generate unique and intelligent solutions to
   <br>
   
   [Supamaxel](http://13.56.13.208/)
+  
+  Supamaxel is a massive real-time art canvas that anyone can draw on from around the world.
+  
+  ![WebSockets](https://img.shields.io/badge/-WebSockets-red) ![WebWorkers](https://img.shields.io/badge/-WebWorkers-blue) ![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen) ![Firebase](https://img.shields.io/badge/-Firebase-orange) ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-yellow)
+ 
+   <br>
+  
+  </td>
+</tr>
+<tr>
+<td>
+  
+  <br>
+  
+  [Flow Field Renderer](https://flowfields.vercel.app/)
+  
+  CanCode enables users to accelerate their learning with interactive lessons, educative coding challenges, and a community of like-minded learners.
+  
+  ![SvelteKit](https://img.shields.io/badge/-SvelteKit-blueviolet) ![WebGL](https://img.shields.io/badge/-WebGL-gray) ![TypeScript](https://img.shields.io/badge/-TypeScript-brightgreen) ![Vercel](https://img.shields.io/badge/-Vercel-purple)
+ 
+   <br>
+  
+</td>
+<td>
+  
+  <br>
+  
+  [Personal Website](https://tristan-copley-2023.vercel.app/)
   
   Supamaxel is a massive real-time art canvas that anyone can draw on from around the world.
   
