@@ -7,7 +7,8 @@
 [![BMC](https://img.shields.io/badge/BuyMeACoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tristancopley)
 [![Profile Views](https://komarev.com/ghpvc/?username=TristanCopley&style=flat-square)](https://github.com/TristanCopley)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&duration=3000&pause=2000&color=DFDFDF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-stack+Developer;Videogame+Programmer)](https://git.io/typing-svg)
+<a href="https://tristan-copley-2023.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Software+Engineer;Product+Designer;Project+Manager;Lead+Programmer" alt="Typing SVG" /></a>
+
 </div>
 <div>
 I am an 18 year old with a drive to generate unique and intelligent solutions to complex problems. With extensive knowledge in languages like JavaScript, Java, Rust, and Python, and work experience in test-driven, agile and waterfall environments, I deliver quality results within tight deadlines.
