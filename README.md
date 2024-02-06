@@ -21,11 +21,13 @@ I am a 19 old with a drive to generate unique and intelligent solutions to compl
   
   <br>
   
-  [CanCode](https://cancode-pi.vercel.app/)
+  CanCode
   
   CanCode enables users to accelerate their learning with interactive lessons, educative coding challenges, and a community of like-minded learners.
   
   ![SvelteKit](https://img.shields.io/badge/-SvelteKit-blueviolet) ![Firebase](https://img.shields.io/badge/-Firebase-orange) ![TypeScript](https://img.shields.io/badge/-TypeScript-brightgreen) ![Playwright](https://img.shields.io/badge/-Playwright-yellow)
+  
+  <sub>(Demo on request)</sub>
  
    <br>
   
