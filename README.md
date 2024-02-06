@@ -88,25 +88,26 @@ I am a 19 old with a drive to generate unique and intelligent solutions to compl
 
 <hr>
 
-<a href='https://www.typescriptlang.org/'><img     alt="TypeScript" width="32px" src="https://user-images.githubusercontent.com/44332326/127034527-735e1477-2277-448b-b334-1fff2c35d694.png" /></a>
-<a href='https://www.oracle.com/java/'><img        alt="Java"       width="34px" src="https://user-images.githubusercontent.com/44332326/127751758-e0718df9-046f-4adc-b77f-87907a99d8f8.png" /></a>
-<a href='https://www.rust-lang.org/'><img          alt="Rust"        width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" /></a>
-<a href='https://en.cppreference.com/w/'><img      alt="C++"        width="28px" src="https://user-images.githubusercontent.com/44332326/126880643-e4ac2a1d-f026-40ad-a56c-69196c676284.png" /></a>
-<a href='https://www.python.org/'><img             alt="Python"     width="30px" src="https://user-images.githubusercontent.com/44332326/127032054-578b242c-0208-4820-b865-07ed5f57b108.png" /></a>
-<a href='https://en.wikipedia.org/wiki/HTML5'><img alt="HTML5"      width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a href='https://www.tutorialrepublic.com/css-tutorial/'><img alt="CSS3"       width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href='https://reactjs.org/'><img                alt="React"      width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
-<a href='https://kit.svelte.dev/'><img                alt="Svelte"      width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" /></a>
-<a href='https://nodejs.org/en/'><img alt="Node.js"    width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
-<a href='https://www.electronjs.org/'><img         alt="Electron"   width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" /></a>
-<a href='https://firebase.google.com/'><img        alt="Firebase"   width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" /></a>
-<a href='https://threejs.org/'><img                alt="Three.js"   width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" /></a>
-<a href='https://www.tensorflow.org/'><img                alt="TensorFlow"   width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" /></a>
-<a href='https://tailwindcss.com/'><img            alt="TailwindCSS" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" /></a>
-<a href='https://www.docker.com/'><img alt="Docker"     width="32px" src="https://user-images.githubusercontent.com/44332326/127984598-11ad8e81-a31e-4a58-a175-051c5df8a7a7.png" /></a>
-<a href='https://aws.amazon.com/'><img             alt="AWS"        width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" /></a>
-<a href='https://www.mongodb.com/'><img            alt="MongoDB"    width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" /></a>
-<a href='https://github.com/'><img                 alt="Git"        width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" /></a>
-<a href="https://vitejs.dev/"><img                 alt="Vite"       width="32px" src="https://avatars.githubusercontent.com/u/65625612?s=280&v=4"/></a>
-<a href="https://tristan-copley-2023.vercel.app/" align="center">And more...</a>
+<a href='https://www.typescriptlang.org/'><img     alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
+<a href='https://www.oracle.com/java/'><img        alt="Java"       width="40px" src="https://skillicons.dev/icons?i=java&theme=dark" /></a>
+<a href='https://www.rust-lang.org/'><img          alt="Rust"        width="40px" src="https://skillicons.dev/icons?i=rust&theme=dark" /></a>
+<a href='https://en.cppreference.com/w/'><img      alt="C++"        width="40px" src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
+<a href='https://www.python.org/'><img             alt="Python"     width="40px" src="https://skillicons.dev/icons?i=py&theme=dark" /></a>
+<a href='https://en.wikipedia.org/wiki/HTML5'><img alt="HTML5"      width="40px" src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
+<a href='https://www.tutorialrepublic.com/css-tutorial/'><img alt="CSS3"       width="40px" src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
+<a href='https://reactjs.org/'><img                alt="React"      width="40px" src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
+<a href='https://kit.svelte.dev/'><img                alt="Svelte"      width="40px" src="https://skillicons.dev/icons?i=svelte&theme=dark" /></a>
+<a href='https://nodejs.org/en/'><img alt="Node.js"    width="40px" src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
+<a href='https://www.electronjs.org/'><img         alt="Electron"   width="40px" src="https://skillicons.dev/icons?i=electron&theme=dark" /></a>
+<a href='https://firebase.google.com/'><img        alt="Firebase"   width="40px" src="https://skillicons.dev/icons?i=firebase&theme=dark" /></a>
+<a href='https://threejs.org/'><img                alt="Three.js"   width="40px" src="https://skillicons.dev/icons?i=threejs&theme=dark" /></a>
+<a href='https://www.tensorflow.org/'><img                alt="TensorFlow"   width="40px" src="https://skillicons.dev/icons?i=tensorflow&theme=dark" /></a>
+<a href='https://tailwindcss.com/'><img            alt="TailwindCSS" width="40px" src="https://skillicons.dev/icons?i=tailwind&theme=dark" /></a>
+<a href='https://www.docker.com/'><img alt="Docker"     width="40px" src="https://skillicons.dev/icons?i=docker&theme=dark" /></a>
+<a href='https://aws.amazon.com/'><img             alt="AWS"        width="40px" src="https://skillicons.dev/icons?i=aws&theme=dark" /></a>
+<a href='https://www.mongodb.com/'><img            alt="MongoDB"    width="40px" src="https://skillicons.dev/icons?i=mongodb&theme=dark" /></a>
+<a href='https://github.com/'><img                 alt="Git"        width="40px" src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+<a href="https://vitejs.dev/"><img                 alt="Vite"       width="40px" src="https://skillicons.dev/icons?i=vite&theme=dark"/></a>
+<a href="https://vercel.com/"><img                 alt="Vercel"       width="40px" src="https://skillicons.dev/icons?i=vercel&theme=dark"/></a>
+<a href="https://expressjs.com/"><img                 alt="Express"       width="40px" src="https://skillicons.dev/icons?i=express&theme=dark"/></a>
 <br>
