@@ -110,4 +110,5 @@ I am a 19 old with a drive to generate unique and intelligent solutions to compl
 <a href="https://vitejs.dev/"><img                 alt="Vite"       width="40px" src="https://skillicons.dev/icons?i=vite&theme=dark"/></a>
 <a href="https://vercel.com/"><img                 alt="Vercel"       width="40px" src="https://skillicons.dev/icons?i=vercel&theme=dark"/></a>
 <a href="https://expressjs.com/"><img                 alt="Express"       width="40px" src="https://skillicons.dev/icons?i=express&theme=dark"/></a>
+<a href="https://figma.com/"><img                 alt="Figma"       width="40px" src="https://skillicons.dev/icons?i=figma&theme=dark"/></a>
 <br>
