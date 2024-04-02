@@ -64,7 +64,7 @@ I am a 19 old with a drive to generate unique and intelligent solutions to compl
   
   <br>
   
-  [Personal Website]([tristancopley.com](https://tristancopley.com/))
+  [Personal Website](https://tristancopley.com/)
   
    My personal website doubles as an aesthetic software engineering resume and an ergonomic repository for all the projects I have felt the desire to share.
   
