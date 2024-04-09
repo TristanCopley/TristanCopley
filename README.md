@@ -11,7 +11,7 @@
 
 </div>
 <div>
-<div align="center">I'm a 19 old with a drive to generate unique and intelligent solutions to complex problem</div>
+<div align="center">I'm a 19 old with a drive to generate unique and intelligent solutions to complex problems</div>
 </div>
 <br>
   </div>
