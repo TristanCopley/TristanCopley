@@ -11,7 +11,7 @@
 
 </div>
 <div>
-I am a 19 old with a drive to generate unique and intelligent solutions to complex problems. With extensive knowledge in languages like JavaScript, Java, Rust, and Python, and work experience in test-driven, agile and waterfall environments, I deliver quality results within tight deadlines.
+<div align="center">I am a 19 old with a drive to generate unique and intelligent solutions to complex problem</div>
 </div>
 <br>
   </div>
