@@ -5,12 +5,12 @@
 
   # <samp></samp>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-copley-0123b9256/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristancopley/)
 [![DEV](https://img.shields.io/badge/Dev.to-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/tristancopley) 
 [![BMC](https://img.shields.io/badge/BuyMeACoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tristancopley)
 [![Profile Views](https://komarev.com/ghpvc/?username=TristanCopley&style=flat-square)](https://github.com/TristanCopley)
 
-<a href="https://tristan-copley-2023.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Software+Engineer;Product+Designer;Project+Manager;Lead+Programmer" alt="Typing SVG" /></a>
+<a href="https://tristancopley.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Software+Engineer;Product+Designer;Project+Manager;Lead+Programmer" alt="Typing SVG" /></a>
 
 </div>
 <div>
@@ -24,7 +24,7 @@
   
   <br>
   
-  <a href="https://tristan-copley-2023.vercel.app/projects/cancode">CanCode</a>
+  <ins>CanCode</ins>
   
   CanCode enables users to accelerate their learning with interactive lessons, educative coding challenges, and a community of like-minded learners.
   
