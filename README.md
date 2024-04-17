@@ -44,8 +44,11 @@
   Supamaxel is a massive real-time art canvas that anyone can draw on from around the world.
   
   ![WebSockets](https://img.shields.io/badge/-WebSockets-red) ![WebWorkers](https://img.shields.io/badge/-WebWorkers-blue) ![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen) ![Firebase](https://img.shields.io/badge/-Firebase-orange) ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-yellow)
- 
-   <br>
+
+  <br>
+  <br>
+  <br>
+  <br>
   
   </td>
 </tr>
@@ -60,7 +63,9 @@
   
   ![SvelteKit](https://img.shields.io/badge/-SvelteKit-blueviolet) ![ThreeJS](https://img.shields.io/badge/-ThreeJS-white) ![TypeScript](https://img.shields.io/badge/-TypeScript-brightgreen) ![Vercel](https://img.shields.io/badge/-Vercel-purple)
  
-   <br>
+  <br>
+  <br>
+   
   
 </td>
 <td>
@@ -73,7 +78,7 @@
   
   ![Too many!](https://img.shields.io/badge/-Too%20many%20to%20count!-darkred)
  
-   <br>
+   <br><br>
   
   </td>
 </tr>
