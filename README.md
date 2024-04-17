@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![banner](https://github.com/TristanCopley/TristanCopley/assets/89219797/c0595c14-ae79-4bf6-bef0-097f276f4662)
+  [![banner](https://github.com/TristanCopley/TristanCopley/assets/89219797/c0595c14-ae79-4bf6-bef0-097f276f4662)](https://tristancopley.com/)
 
 
   # <samp></samp>
