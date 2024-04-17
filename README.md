@@ -1,6 +1,9 @@
 <div align="center">
 
-  # <samp>&gt; Hi there, I'm <b> Tristan Copley </b> &lt; </samp>
+  ![banner](https://github.com/TristanCopley/TristanCopley/assets/89219797/c0595c14-ae79-4bf6-bef0-097f276f4662)
+
+
+  # <samp></samp>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tristan-copley-0123b9256/)
 [![DEV](https://img.shields.io/badge/Dev.to-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/tristancopley) 
