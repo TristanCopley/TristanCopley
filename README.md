@@ -37,12 +37,13 @@
   
   <br>
   
-  [Supamaxel](http://13.56.13.208/)
+  <ins>Supamaxel</ins>
   
   Supamaxel is a massive real-time art canvas that anyone can draw on from around the world.
   
   ![WebSockets](https://img.shields.io/badge/-WebSockets-red) ![WebWorkers](https://img.shields.io/badge/-WebWorkers-blue) ![NodeJS](https://img.shields.io/badge/-NodeJS-brightgreen) ![Firebase](https://img.shields.io/badge/-Firebase-orange) ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-yellow)
 
+  <sub>(Demo on request)</sub>
   <br>
   <br>
   <br>
